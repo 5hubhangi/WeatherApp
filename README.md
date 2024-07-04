@@ -1,5 +1,5 @@
 # Weather App 🌤⛈⛅️
-This is an Weather App which tells you about the weather of any city in the World 🌏.
+A Weather App that tells you about the weather of any city in the World 🌏.
 <br>
 <br>
 <br>
@@ -19,4 +19,3 @@ Language used in this app --> Html, CSS, JS
 
 # UI Design
 
-<img width="426" alt="Screenshot 2022-04-27 at 10 48 01 PM" src="https://user-images.githubusercontent.com/90901154/165583058-cf50d1ce-cb69-4676-b74a-12e87b7d53a0.png">
